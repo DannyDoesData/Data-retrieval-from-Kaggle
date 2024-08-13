@@ -9,3 +9,4 @@
 
 *For detailed code please refer to [python_code](/London_bikes.ipynb)*
 
+**Take a look at the visualisation I have created using this data: [Tableau Public Link](https://public.tableau.com/shared/JB5RJZQY8?:display_count=n&:origin=viz_share_link)**
